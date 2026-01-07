@@ -1,7 +1,6 @@
-<script>
+
     console.log("--- 6. 삼항 연산자 ---");
     let age = 20;
     // 조건 ? 참일때값 : 거짓일때값
     let canVote = (age >= 18) ? "You can vote." : "You cannot vote.";
     console.log(canVote);
-</script>

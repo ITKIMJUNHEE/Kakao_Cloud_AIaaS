@@ -1,4 +1,4 @@
-<script>
+
     console.log("--- 3. 연산자 ---");
     // 산술 연산
     console.log(10 % 3); // 1
@@ -13,4 +13,3 @@
     let isAdult = true;
     let hasLicense = false;
     console.log(isAdult && hasLicense); // false
-</script>

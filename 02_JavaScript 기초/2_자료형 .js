@@ -1,4 +1,4 @@
-<script>
+
     console.log("--- 2. 자료형 ---");
     let name = "Alice"; // 문자열
     let count = 25; // 숫자
@@ -10,4 +10,3 @@
 
     // 특수 문자 (이스케이프 시퀀스)
     console.log("이름\t나이\t직업\n홍길동\t30\t프로그래머");
-</script>

@@ -1,4 +1,4 @@
-<script>
+
     console.log("--- 4. 객체와 배열 ---");
     // 객체 (Object)
     let person = { name: "John", age: 30 };
@@ -9,4 +9,3 @@
     let fruits = ["Apple", "Banana", "Cherry"];
     console.log(fruits[0]); // Apple
     fruits.push("Orange"); // 마지막에 추가
-</script>

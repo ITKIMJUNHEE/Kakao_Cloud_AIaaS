@@ -1,4 +1,4 @@
-<script>
+
     console.log("--- 8. while 반복문 ---");
     let count = 0;
     while (count < 5) {
@@ -14,4 +14,3 @@
         if (i === 8) break;    // 8에서 멈추기
         console.log("Count: " + i);
     }
-</script>

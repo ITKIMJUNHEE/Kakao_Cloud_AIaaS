@@ -1,4 +1,4 @@
-<script>
+
     console.log("--- 1. 변수와 상수 ---");
     let age = 25; // 변수: 값 변경 가능
     age = 30;
@@ -9,4 +9,3 @@
 
     let c; // 변수는 선언만 가능 (undefined)
     // const B; // 상수는 선언만 불가능 (에러)
-</script>

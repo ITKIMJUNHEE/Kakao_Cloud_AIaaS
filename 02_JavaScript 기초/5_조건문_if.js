@@ -1,4 +1,4 @@
-<script>
+
     console.log("--- 5. if-else 조건문 ---");
     let score = 85;
     if (score >= 90) {
@@ -8,4 +8,3 @@
     } else {
         console.log("F");
     }
-</script>
