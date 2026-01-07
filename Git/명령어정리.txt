@@ -1,0 +1,20 @@
+1. 로컬 저장소 만들기
+   git init (현재 폴더를 Git 관리 대상으로 지정)
+
+2. 상태 확인
+   git status (어떤 파일이 수정되었는지 확인)
+
+3. 스테이징 (장바구니 담기)
+   git add . (모든 변경사항 담기)
+
+4. 커밋 (기록 남기기)
+   git commit -m "메시지 내용"
+
+5. 원격 저장소 연결 (처음 한 번만)
+   git remote add origin https://github.com/ITKIMJUNHEE/Kakao_Cloud_AIaaS.git
+
+6. 서버로 보내기
+   git push origin main (혹은 master)
+
+7. 로그 확인
+   git log (커밋 기록 확인)
